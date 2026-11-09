@@ -1,0 +1,5 @@
+# GPU revision experiments (versions used in the study)
+torch==2.11.0
+chronos-forecasting==2.2.2
+peft==0.19.1
+transformers==4.57.6

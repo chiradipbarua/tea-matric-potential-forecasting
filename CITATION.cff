@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated article and this repository."
+type: software
+title: "Tea-garden soil matric-potential forecasting: analysis code"
+version: "1.0.0"
+license: MIT
+authors:
+  - family-names: Barua
+    given-names: Chiradip
+    email: cbarua@iitg.ac.in
+    affiliation: "Indian Institute of Technology Guwahati"
+  - family-names: Sarma
+    given-names: Arup Kumar
+    affiliation: "Indian Institute of Technology Guwahati"
+  - family-names: Mitra
+    given-names: Sudip
+    affiliation: "Indian Institute of Technology Guwahati"
+abstract: "Evaluation metrics, figure scripts and revision experiment runner for a tea-garden soil matric-potential forecasting study comparing zero-shot and LoRA-adapted time-series foundation models with local baselines."
+keywords: [tea, soil matric potential, time-series foundation models, Chronos-2, LoRA, forecasting]
